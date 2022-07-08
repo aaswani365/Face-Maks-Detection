@@ -18,11 +18,11 @@ This dataset consists of __3833 images__ belonging to two classes:
 *	__with_mask: 1915 images__
 *	__without_mask: 1918 images__
 
-The images used was real images of faces wearing masks. The images was collected from the __Kaggle datasets__
+The images used was real images of faces wearing masks. The images was collected from the __Kaggle Datasets__
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/akki2089/face-mask-detection/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/aaswani365/Face-Mask-Detection/blob/main/requirements.txt)
 
 ## :key: Results
 
@@ -31,5 +31,5 @@ All the dependencies and required libraries are included in the file <code>requi
 <a href="https://colab.research.google.com/drive/1anYeUekLC7aQjmVms3vJ1GwI1NwNsNZa"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 #### We got the following accuracy/loss training curve plot
-![](https://github.com/akki2089/face-mask-detection/blob/master/plot.JPG)
+![](https://github.com/aaswani365/Face-Mask-Detection/blob/main/plot.JPG)
 
